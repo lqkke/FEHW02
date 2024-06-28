@@ -59,8 +59,7 @@ header span {
 .about-section {
     /* Стили для второй секции */
     background: rgb(255, 255, 255);
-    padding-top: 100px;
-    padding-bottom: 60px;
+    padding: 100px 0px;
 }
 
 select {
@@ -86,7 +85,7 @@ select {
 .frameworks-list {
     /* Стили для маркированного списка во второй секции */
     list-style-image: url(./assets/images/solar_map-arrow-up-bold.svg);
-    padding-left: 20px;
+    padding: 0px 20px;
     font-size: 16px;
     font-weight: 400;
     line-height: 19px;
@@ -175,7 +174,6 @@ footer {
 
 .footer-link {
     /* Стили для футера */
-    color: rgb(41, 101, 241);
     font-size: 14px;
     font-weight: 400;
     line-height: 17px;
