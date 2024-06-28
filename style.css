@@ -174,10 +174,15 @@ footer {
     padding: 26px 0;
 }
 
-a.footer-link {
+.footer-link {
     /* Стили для футера */
     font-size: 14px;
     font-weight: 400;
     line-height: 17px;
-    text-decoration: none !important; 
+}
+
+a.footer-link {
+    text-decoration: none;
+    text-decoration-color: none; 
+    text-decoration-line: none;
 }
