@@ -92,7 +92,7 @@ select {
     text-align: left;
 }
 
-.books-list {
+ol.books-list {
     /* Стили для нумерованного списка во второй секции */
     font-size: 16px;
     font-weight: 400;
